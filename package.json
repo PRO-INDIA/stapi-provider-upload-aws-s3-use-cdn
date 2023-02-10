@@ -16,6 +16,7 @@
     "test": "echo \"no tests yet\""
   },
   "dependencies": {
+    "@azure/storage-queue": "^12.11.0",
     "aws-sdk": "2.1188.0",
     "lodash": "4.17.21"
   },
